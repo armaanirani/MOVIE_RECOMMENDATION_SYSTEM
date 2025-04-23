@@ -5,3 +5,4 @@ pandas
 matplotlib
 wordcloud
 python-dotenv
+streamlit
