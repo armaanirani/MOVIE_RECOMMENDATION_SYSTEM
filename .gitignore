@@ -1,2 +1,5 @@
 .env
 venv/
+cosine_sim.pkl
+df_cleaned.pkl
+tfidf_matrix.pkl
